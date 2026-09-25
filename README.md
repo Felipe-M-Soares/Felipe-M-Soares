@@ -3,9 +3,9 @@
 <!-- Header Animado -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Felipe%20Soares&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Front-End&descAlignY=58&descSize=20" width="100%"/>
 
-<!-- Typing Animation -->
+<!-- Typing Animation CORRIGIDO -->
 <a href="https://github.com/Felipe-M-Soares">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Felipe+Soares!;%F0%9F%92%BB+Desenvolvedor+Front-End;%F0%9F%9A%80+Criando+projetos+e+evoluindo+todos+os+dias" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&random=false&width=700&height=150&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Felipe+Soares!;%F0%9F%92%BB+Desenvolvedor+Front-End;%F0%9F%9A%80+Criando+projetos+e+evoluindo+todos+os+dias" alt="Typing SVG" />
 </a>
 
 <br/>
