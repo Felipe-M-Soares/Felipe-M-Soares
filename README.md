@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-👋 Olá! Sou **Felipe Soares**, Desenvolvedor Front-End de Indaiatuba-SP. Comecei na programação por curiosidade na época eu era fissurado em como os jogos eram feitos e acabei gostando da ideia de criar interfaces.
+👋 Olá! Sou **Felipe**, Desenvolvedor Front-End de Indaiatuba-SP. Comecei na programação por curiosidade na época eu era fissurado em como os jogos eram feitos e acabei gostando da ideia de criar interfaces.
 
 🎯 **Foco atual:**
 - Desenvolvimento web com JavaScript e React
@@ -31,6 +31,7 @@
 - **Ferramentas:** Git, GitHub, VS Code, Figma, Vercel
 
 🚀 Estou sempre criando projetos para evoluir. Gosto de desafios e de aprender algo novo todos os dias.
+
 
 💡 *"Monster + código = combinação perfeita."* 🥫
 
