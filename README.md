@@ -18,11 +18,21 @@
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎯 **Focado** em desenvolvimento web moderno
-- 🌱 **Aprendendo** cada vez mais sobre JavaScript e React
-- 🚀 **Sempre** criando novos projetos para evoluir
-- 💡 **Gosto** de transformar ideias em interfaces funcionais
-- 🥫 **Monster + código** = combinação perfeita
+👋 Olá! Sou **Felipe Soares**, Desenvolvedor Front-End de Indaiatuba-SP. Comecei na programação por curiosidade na época eu era fissurado em como os jogos eram feitos e acabei gostando da ideia de criar interfaces.
+
+🎯 **Foco atual:**
+- Desenvolvimento web com JavaScript e React
+- Interfaces responsivas e acessíveis
+- Código limpo e componentização
+
+🛠️ **Stack:**
+- **Front-End:** HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Tailwind CSS
+- **Back-End & DB:** Node.js, Express, MongoDB, MySQL
+- **Ferramentas:** Git, GitHub, VS Code, Figma, Vercel
+
+🚀 Estou sempre criando projetos para evoluir. Gosto de desafios e de aprender algo novo todos os dias.
+
+💡 *"Monster + código = combinação perfeita."* 🥫
 
 <br clear="both"/>
 
@@ -113,15 +123,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-M-Soares&theme=dark&border=30363D&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
 </div>
 
----
-
-## 📈 Estatísticas de Commits
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-M-Soares&theme=tokyonight&border=61DAFB&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🐍 Jogo da Cobrinha
 
