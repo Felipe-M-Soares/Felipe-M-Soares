@@ -22,7 +22,7 @@
 - 🌱 **Aprendendo** cada vez mais sobre JavaScript e React
 - 🚀 **Sempre** criando novos projetos para evoluir
 - 💡 **Gosto** de transformar ideias em interfaces funcionais
-- ☕ **monster + código** = combinação perfeita
+- 🥫 **Monster + código** = combinação perfeita
 
 <br clear="both"/>
 
@@ -119,10 +119,14 @@
 
 ---
 
-## 📈 Gráfico de Atividade
+## 📈 Estatísticas de Commits
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-M-Soares&theme=github-compact&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-M-Soares&theme=tokyonight&border=61DAFB&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-M-Soares&theme=tokyonight" width="100%" />
 </div>
 
 ---
