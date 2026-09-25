@@ -1,68 +1,34 @@
-<h1 align="center">E aí 👋, eu sou o Felipe Soares</h1>
-
-<h3 align="center">
-💻 Desenvolvedor Front-End <br>
-🚀 Criando projetos e aprendendo todos os dias
-</h3>
-
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzR4dDF4eDhlbTR0MnhxNXdxbDVob2M4bnM4M3VhNGR6bDJxMHV1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="300px">
-</div>
 
-## 👨‍💻 Sobre mim
+<!-- Header Animado -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Felipe%20Soares&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Front-End&descAlignY=58&descSize=20" width="100%"/>
 
-* 🎯 Focado em desenvolvimento web
-* 🌱 Aprendendo cada vez mais sobre JavaScript e React
-* 🚀 Sempre criando novos projetos para evoluir minhas habilidades
-* 💡 Gosto de transformar ideias em interfaces modernas e funcionais
-* ☕ Café + código = combinação perfeita
-
-## 🚀 Tecnologias
-
-<div style="display: inline_block"><br>
-
-<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
+<!-- Typing Animation -->
 <a href="https://github.com/Felipe-M-Soares">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-M-Soares&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-M-Soares&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-## 🔥 Streak
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-M-Soares&theme=tokyonight"/>
-</div>
-
-## 🌎 Onde me encontrar
-
-<a href="SEU_LINKEDIN" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Felipe+Soares!;%F0%9F%92%BB+Desenvolvedor+Front-End;%F0%9F%9A%80+Criando+projetos+e+evoluindo+todos+os+dias" alt="Typing SVG" />
 </a>
 
-<a href="SEU_PORTFOLIO" target="_blank">
-<img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+<br/>
+
+<!-- Badges de Status -->
+<img src="https://komarev.com/ghpvc/?username=Felipe-M-Soares&label=Visualiza%C3%A7%C3%B5es&color=61DAFB&style=for-the-badge" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Felipe-M-Soares?label=Seguidores&style=for-the-badge&color=61DAFB&logo=github" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Felipe-M-Soares?label=Estrelas&style=for-the-badge&color=61DAFB&logo=github" alt="Stars"/>
+
+</div>
 
 ---
 
-<div align="center">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sobre Mim
 
-✨ Obrigado por visitar meu perfil ✨
+<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-</div>
+```javascript
+const felipe = {
+    localizacao: "Brasil 🇧🇷",
+    cargo: "Desenvolvedor Front-End",
+    foco: ["JavaScript", "React", "UI/UX"],
+    aprendendo: ["Next.js", "TypeScript"],
+    hobbies: ["Café ☕", "Código 💻", "Projetos 🚀"],
+    filosofia: "Transformar ideias em interfaces modernas e funcionais"
+};
