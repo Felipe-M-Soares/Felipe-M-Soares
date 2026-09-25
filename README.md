@@ -113,20 +113,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-M-Soares&theme=dark&border=30363D&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Felipe-M-Soares&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📈 Estatísticas de Commits
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-M-Soares&theme=tokyonight&border=61DAFB&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felipe-M-Soares&theme=tokyonight" width="100%" />
 </div>
 
 ---
