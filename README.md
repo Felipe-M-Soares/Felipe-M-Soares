@@ -32,3 +32,64 @@ const felipe = {
     hobbies: ["Café ☕", "Código 💻", "Projetos 🚀"],
     filosofia: "Transformar ideias em interfaces modernas e funcionais"
 };
+
+## 🛠️ Minhas Skills
+
+<div align="center">
+
+### 🎨 Front-End
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwindp" />
+
+### ⚙️ Back-End & Banco de Dados
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+### 🧰 Ferramentas & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm" />
+
+### 📱 Outros
+<img src="https://skillicons.dev/icons?i=py,java,cs,windows" />
+
+</div>
+
+---
+
+## 🎯 Skills em Detalhe (com Ícones Animados)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br><strong>JavaScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br><strong>React</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br><strong>TypeScript</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br><strong>GitHub</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+      <br><strong>Java</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
