@@ -1,44 +1,39 @@
 <div align="center">
 
-<!-- Header Animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Felipe%20Soares&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Desenvolvedor%20Front-End&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=200&section=header&text=Felipe%20Soares&fontSize=70&fontColor=61DAFB&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Front-End&descAlignY=58&descSize=20&descColor=8B949E" width="100%"/>
 
-<!-- Typing Animation CORRIGIDO -->
-<a href="https://github.com/Felipe-M-Soares">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&random=false&width=700&height=150&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Felipe+Soares!;%F0%9F%92%BB+Desenvolvedor+Front-End;%F0%9F%9A%80+Criando+projetos+e+evoluindo+todos+os+dias" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Ol%C3%A1%2C+eu+sou+o+Felipe+Soares;%F0%9F%92%BB+Desenvolvedor+Front-End;%F0%9F%9A%80+Criando+projetos+e+evoluindo" alt="Typing SVG" />
 
 <br/>
 
-<!-- Badges de Status -->
 <img src="https://komarev.com/ghpvc/?username=Felipe-M-Soares&label=Visualiza%C3%A7%C3%B5es&color=61DAFB&style=for-the-badge" alt="Profile views"/>
-<img src="https://img.shields.io/github/followers/Felipe-M-Soares?label=Seguidores&style=for-the-badge&color=61DAFB&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/Felipe-M-Soares?label=Estrelas&style=for-the-badge&color=61DAFB&logo=github" alt="Stars"/>
+<img src="https://img.shields.io/github/followers/Felipe-M-Soares?label=Seguidores&style=for-the-badge&color=61DAFB&logo=github&logoColor=black" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/Felipe-M-Soares?label=Estrelas&style=for-the-badge&color=61DAFB&logo=github&logoColor=black" alt="Stars"/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Sobre Mim
+## 👨‍💻 Sobre Mim
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```javascript
-const felipe = {
-    localizacao: "Brasil 🇧🇷",
-    cargo: "Desenvolvedor Front-End",
-    foco: ["JavaScript", "React", "UI/UX"],
-    aprendendo: ["Next.js", "TypeScript"],
-    hobbies: ["Café ☕", "Código 💻", "Projetos 🚀"],
-    filosofia: "Transformar ideias em interfaces modernas e funcionais"
-};
+- 🎯 **Focado** em desenvolvimento web moderno
+- 🌱 **Aprendendo** cada vez mais sobre JavaScript e React
+- 🚀 **Sempre** criando novos projetos para evoluir
+- 💡 **Gosto** de transformar ideias em interfaces funcionais
+- ☕ **monster + código** = combinação perfeita
+
+<br clear="both"/>
+
+---
 
 ## 🛠️ Minhas Skills
 
 <div align="center">
 
 ### 🎨 Front-End
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwindp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,tailwind" />
 
 ### ⚙️ Back-End & Banco de Dados
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
@@ -46,14 +41,11 @@ const felipe = {
 ### 🧰 Ferramentas & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,npm" />
 
-### 📱 Outros
-<img src="https://skillicons.dev/icons?i=py,java,cs,windows" />
-
 </div>
 
 ---
 
-## 🎯 Skills em Detalhe (com Ícones Animados)
+## 🎯 Skills em Detalhe
 
 <div align="center">
 
@@ -93,3 +85,96 @@ const felipe = {
 ---
 
 ## 🚀 Projetos em Destaque
+
+<div align="center">
+
+<a href="https://github.com/Felipe-M-Soares/zominiusinagensespeciais">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Felipe-M-Soares&repo=zominiusinagensespeciais&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
+</a>
+<a href="https://github.com/Felipe-M-Soares/mamacoVoip">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Felipe-M-Soares&repo=mamacoVoip&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
+</a>
+<a href="https://github.com/Felipe-M-Soares/estudo">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Felipe-M-Soares&repo=estudo&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Felipe-M-Soares&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Felipe-M-Soares&layout=compact&langs_count=8&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=61DAFB&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Felipe-M-Soares&theme=dark&border=30363D&background=0D1117&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Felipe-M-Soares&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Gráfico de Atividade
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Felipe-M-Soares&theme=github-compact&bg_color=0D1117&color=61DAFB&line=61DAFB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+## 🐍 Jogo da Cobrinha
+
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Felipe-M-Soares/Felipe-M-Soares/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Felipe-M-Soares/Felipe-M-Soares/output/github-snake.svg">
+<img alt="Snake animation" src="https://raw.githubusercontent.com/Felipe-M-Soares/Felipe-M-Soares/output/github-snake.svg" width="100%">
+</picture>
+</div>
+
+---
+
+## 🌎 Vamos nos conectar!
+
+<div align="center">
+
+<a href="https://github.com/Felipe-M-Soares" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/felipe-soares-46b12a26b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="pessoal.fms@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://instagram.com/ele.felipems" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://discord.com/users/zomini#6486" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+<a href="https://wa.me/5519994940256" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="https://www.youtube.com/@zom1n186" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Transformando ideias em interfaces modernas e funcionais."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer&text=Obrigado%20pela%20visita!&fontSize=22&fontColor=61DAFB&animation=fadeIn&fontAlignY=70" width="100%"/>
+
+</div>
