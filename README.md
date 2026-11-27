@@ -97,19 +97,7 @@
 
 ## 🚀 Projetos em Destaque
 
-<div align="center">
-
-<a href="https://github.com/Felipe-M-Soares/zominiusinagensespeciais">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Felipe-M-Soares&repo=zominiusinagensespeciais&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
-</a>
-<a href="https://github.com/Felipe-M-Soares/mamacoVoip">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Felipe-M-Soares&repo=mamacoVoip&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
-</a>
-<a href="https://github.com/Felipe-M-Soares/estudo">
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Felipe-M-Soares&repo=estudo&theme=github_dark&border_color=30363D&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB" />
-</a>
-
-</div>
+Em Produção aguarde...
 
 ---
 
